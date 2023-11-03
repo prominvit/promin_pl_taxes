@@ -9,7 +9,7 @@ const HomeGroup = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         {/* <Link className='nav_lang' to='/pl'>PL</Link> */}
-        <Contact link={'https://t.me/Promin_News'} name={'Nowość'} />
+        <Contact link={'https://t.me/promin_nowosc'} name={'Nowość'} />
         <Contact link={'https://t.me/itaxipromin'} name={'iTaxi'} />
         <Contact link={'https://t.me/Konkursy_Promin'} name={'Konkursy'} />
         <Contact link={'https://t.me/promin'} name={'Główny czat'} />
