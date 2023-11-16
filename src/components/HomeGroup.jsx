@@ -12,7 +12,7 @@ const HomeGroup = () => {
         <Contact link={'https://t.me/promin_nowosc'} name={'Nowość'} />
         <Contact link={'https://t.me/itaxipromin'} name={'iTaxi'} />
         <Contact link={'https://t.me/Konkursy_promin_pl'} name={'Konkursy'} />
-        <Contact link={'https://t.me/promin'} name={'Główny czat'} />
+        <Contact link={'https://t.me/pl_promin'} name={'Główny czat'} />
         <Contact link={'https://t.me/Promin_couriers'} name={'Czat kurierów'} />
         <Contact link={'https://t.me/Arenda_Promin'} name={'Wynajem samochodów'} />
         <Contact link={'https://t.me/BaraholkaPromin'} name={'Targowisko'} />
