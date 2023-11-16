@@ -11,7 +11,7 @@ const HomeGroup = () => {
         {/* <Link className='nav_lang' to='/pl'>PL</Link> */}
         <Contact link={'https://t.me/promin_nowosc'} name={'Nowość'} />
         <Contact link={'https://t.me/itaxipromin'} name={'iTaxi'} />
-        <Contact link={'https://t.me/Konkursy_Promin'} name={'Konkursy'} />
+        <Contact link={'https://t.me/Konkursy_promin_pl'} name={'Konkursy'} />
         <Contact link={'https://t.me/promin'} name={'Główny czat'} />
         <Contact link={'https://t.me/Promin_couriers'} name={'Czat kurierów'} />
         <Contact link={'https://t.me/Arenda_Promin'} name={'Wynajem samochodów'} />
