@@ -3,8 +3,9 @@ import './App.css';
 import Home from './components/Home';
 import HomeGroup from './components/HomeGroup';
 import HomeGroupEng from './components/HomeGroupEng';
-import HomeGroupUZB from './components/HomeGroupUZB';
+import HomeGroupUZB from './components/UzbTaxes';
 import HomeMedia from './components/HomeMedia';
+import UzbTaxes from './components/UzbTaxes';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route exact path="/media" element={<HomeMedia />} />
         <Route exact path="/eng_group" element={<HomeGroupEng />} />
         <Route exact path="/uz_group" element={<HomeGroupUZB />} />
+        <Route exact path="/uz_taxes" element={<UzbTaxes />} />
       </Routes>
     </div>
   );
