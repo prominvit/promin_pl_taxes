@@ -12,7 +12,7 @@ const HomeGroupUZB = () => {
         <Contact link={'https://t.me/uz_news_promin'} name={'Янгиликлар'} />
         <Contact link={'https://t.me/uz_news_promin/17'} name={'iTaxi'} />
         <Contact link={'https://t.me/events_uz'} name={'Конкурслар'} />
-        <Contact link={'https://t.me/eng_promin'} name={'Ҳайдовчилар чати'} />
+        <Contact link={'https://t.me/promin_uzb'} name={'Ҳайдовчилар чати'} />
         <Contact link={'https://t.me/Promin_couriers'} name={'Курьерлар чати'} />
         <Contact link={'https://t.me/Arenda_Promin'} name={'Автомобил ижараси'} />
         <Contact link={'https://t.me/BaraholkaPromin'} name={'Бозор'} />
