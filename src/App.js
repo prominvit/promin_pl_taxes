@@ -3,7 +3,7 @@ import './App.css';
 import Home from './components/Home';
 import HomeGroup from './components/HomeGroup';
 import HomeGroupEng from './components/HomeGroupEng';
-import HomeGroupUZB from './components/UzbTaxes';
+import HomeGroupUZB from './components/HomeGroupUZB';
 import HomeMedia from './components/HomeMedia';
 import UzbTaxes from './components/UzbTaxes';
 
